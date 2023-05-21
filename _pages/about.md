@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey!"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for stopping in. I'm an aspiring linguist currently appling to PhD programs in the U.S., U.K., and Canada.
+Hey! Thanks for stopping in. I'm an aspiring linguist currently appling to PhD programs in the U.S., U.K., and Canada.
 
 I'm broadly interested in the relationship between language change and identity. My research utilizes sociophonetic and computational methods to analyze specific linguistic variables, which can point us to the conditioning, driving factors, and progress of both large- and small-scale systematic changes. With further study, I aim to fold metalinguistic commentary and stereotype information into this work as new ways to uncover the cognitive, social, and linguistic mechanisms driving such changes.
 
