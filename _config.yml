@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "C. Michael Senko"
   avatar           : "profile.jpeg"
-  bio              : "Aspiring linguist"
+  bio              : # "Aspiring linguist"
   location         : 
   employer         : 
   pubmed           : 
