@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "Presentations"
-    url: /presentations/    
+    url: /talks/    
     
   - title: "CV"
-    url: /cv/
+    url: https://cmsenko.github.io/files/senko_cv_5_2023.pdf
