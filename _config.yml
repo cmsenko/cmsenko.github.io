@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "C. Michael Senko"
+title                    : "Michael Senko"
 title_separator          : "-"
 # description              : &description "personal description"
 url                      : https://cmsenko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "C. Michael Senko"
+  name             : "Michael Senko"
   avatar           : "profile.jpeg"
-  bio              : # "Aspiring linguist"
+  bio              : # "Linguistics PhD Applicant"
   location         : 
   employer         : 
   pubmed           : 
